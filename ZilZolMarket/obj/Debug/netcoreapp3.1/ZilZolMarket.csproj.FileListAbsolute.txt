@@ -1,0 +1,1280 @@
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csprojAssemblyReference.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.Manifest.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.xml
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfoInputs.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfo.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.input.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.output.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorCoreGenerate.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.pdb
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.exe
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.deps.json
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.json
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.dev.json
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.pdb
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CopyComplete
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naum\source\repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CoreCompileInputs.cache
+C:\Users\Naum\source\repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.genruntimeconfig.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Create.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Delete.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Details.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Edit.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Index.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Create.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Delete.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Details.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Edit.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Index.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Create.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Delete.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Details.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Edit.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Index.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Create.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Delete.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Details.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Edit.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Index.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.exe
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.deps.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.dev.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csprojAssemblyReference.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfoInputs.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.input.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.output.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorCoreGenerate.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CopyComplete
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.Manifest.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.xml
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.genruntimeconfig.cache
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UsersLayout.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UsersLayout.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Register.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Register.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.exe
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.deps.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.dev.json
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csprojAssemblyReference.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfoInputs.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.input.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.output.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorCoreGenerate.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UsersLayout.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Register.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CopyComplete
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.Manifest.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.xml
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.dll
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\‏‏ZilZol - עותק\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.genruntimeconfig.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\פיתוח אפליקציות\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Cart.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.json
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.exe
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.deps.json
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.json
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.dev.json
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csprojAssemblyReference.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfoInputs.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.Manifest.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.xml
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\scopedcss\bundle\ZilZolMarket.styles.css
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.input.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.output.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorCoreGenerate.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Baskets\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Cart.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UsersLayout.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Register.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CopyComplete
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.dll
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.pdb
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.genruntimeconfig.cache
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Create.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Delete.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Details.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Edit.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Index.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\NotFound.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Receipt.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\list.cshtml.g.cs
+D:\לימודים\שנה ב\סמסטר קיץ\hZilZol\ZilZol\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Create.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Delete.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Details.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Edit.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Index.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\NotFound.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Receipt.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Cart.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\list.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Naum\Source\Repos\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Sales.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csprojAssemblyReference.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfoInputs.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfo.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.pdb
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.exe
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.deps.json
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.json
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.dev.json
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.pdb
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.Manifest.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.xml
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\scopedcss\bundle\ZilZolMarket.styles.css
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.input.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.output.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorCoreGenerate.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Create.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Delete.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Details.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Edit.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\NotFound.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Receipt.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Create.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Delete.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Details.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Edit.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Create.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Delete.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Details.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Edit.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Create.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Delete.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Details.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Edit.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Cart.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\list.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Sales.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Create.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Delete.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Details.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Edit.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UsersLayout.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_Layout.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cache
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cs
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CopyComplete
+C:\Users\Yoga\source\repos\orasraf1241\ZilZolMarket\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.genruntimeconfig.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.exe
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.deps.json
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.json
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.runtimeconfig.dev.json
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.pdb
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfoInputs.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.AssemblyInfo.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CoreCompileInputs.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorAssemblyInfo.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.Manifest.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\staticwebassets\ZilZolMarket.StaticWebAssets.xml
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\scopedcss\bundle\ZilZolMarket.styles.css
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.input.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.TagHelpers.output.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorCoreGenerate.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Create.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Delete.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Details.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Edit.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Branches\NotFound.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Edit.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Orders\Receipt.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Create.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Delete.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Details.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Edit.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Pcs\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Create.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Delete.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Details.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Edit.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Phones\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Create.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Delete.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Details.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Edit.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\ProductOrders\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Cart.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\list.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Products\Sales.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Create.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Delete.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Details.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Edit.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Screens\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UsersLayout.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Statistics\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_Layout.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.RazorTargetAssemblyInfo.cs
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.Views.pdb
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.CopyComplete
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.dll
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.pdb
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.genruntimeconfig.cache
+C:\Users\orasr\Desktop\ZilZolMarket-dev\ZilZolMarket\obj\Debug\netcoreapp3.1\ZilZolMarket.csproj.AssemblyReference.cache
